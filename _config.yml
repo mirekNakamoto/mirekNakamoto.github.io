@@ -33,16 +33,16 @@ minima:
     # google_scholar_id: qc6CJjYAAAAJ
 
     # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
+    mastodon:
+    - username: mirekNakamoto
+      instance: mastodon.online
     # - username: jekyll2
     #   instance: example.com
 
     # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
+    gitlab:
+    - username: mirekNakamoto
+      instance: gitlab.com
     # - username: jekyll2
     #   instance: example.com
 
