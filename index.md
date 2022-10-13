@@ -5,7 +5,7 @@ tags: [intro, contact, key, nakamoto, bitcoin]
 categories: [admin]
 date: 2022-10-13 17:02:15
 #excerpt: ''
-image: 'BASEURL/assets/FoS.png'
+#image: 'BASEURL/assets/FoS.png'
 description: 'Quasi-Anonymous Cypherpunk, Hacker, Freedom and Free Speach Activist. Bastard son of Satoshi.'
 #permalink:
 ---
@@ -15,7 +15,7 @@ Quasi-Anonymous [Cyberpunk](https://en.m.wikipedia.org/wiki/Cypherpunk), Hacker,
 <div markdown='1' align='center'>
 
 [Free speach flag](https://en.wikipedia.org/wiki/Free_Speech_Flag)
-![free speach flag]({{ image }})
+![free speach flag](https://mireknakamoto.github.io/assets/FoS.png)
 
 </div>
 
